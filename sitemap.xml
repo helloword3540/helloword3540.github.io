@@ -20,43 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.hellotk.fun/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.hellotk.fun/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hellotk.fun/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hellotk.fun/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hellotk.fun/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.hellotk.fun/personal/about/index.html</loc>
+    <loc>https://www.hellotk.fun/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,16 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.hellotk.fun/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hellotk.fun/personal/love/index.html</loc>
+    <loc>https://www.hellotk.fun/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,7 +65,52 @@
   </url>
   
   <url>
+    <loc>https://www.hellotk.fun/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hellotk.fun/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.hellotk.fun/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hellotk.fun/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hellotk.fun/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hellotk.fun/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
